@@ -4,7 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyP0L20veXKr02o0oznlzbkq",
+      "authorship_tag": "ABX9TyOyMjJdNhvfZHbL58Ycb26c",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -25,6 +25,15 @@
       "source": [
         "<a href=\"https://colab.research.google.com/github/Janeth172/EDP1/blob/main/prueba\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
       ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "<font color=\"red\"> Grafica  de $y=x^2$ </font>"
+      ],
+      "metadata": {
+        "id": "A5BNf9B_s1Xq"
+      }
     },
     {
       "cell_type": "code",
@@ -66,6 +75,13 @@
         "x=np.linspace(-5,5,200)\n",
         "plt.plot(x**2)"
       ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [],
+      "metadata": {
+        "id": "X9vU8OYurFcU"
+      }
     }
   ]
 }
